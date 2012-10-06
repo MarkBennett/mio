@@ -22,5 +22,8 @@
     "drive"
   ],
   "author": "Mark Bennett",
-  "license": "BSD"
+  "license": "BSD",
+  "devDependencies": {
+    "jasmine-node" : "~1.0.26"
+  }
 }
