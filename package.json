@@ -1,0 +1,26 @@
+{
+  "name": "mio.js",
+  "version": "0.0.1",
+  "description": "A JavaScript client for the Mover.io API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/markbennett/mio.js"
+  },
+  "keywords": [
+    "moverio",
+    "api",
+    "mover.io",
+    "dropbox",
+    "skydrive",
+    "ftp",
+    "sftp",
+    "gdrive",
+    "drive"
+  ],
+  "author": "Mark Bennett",
+  "license": "BSD"
+}
